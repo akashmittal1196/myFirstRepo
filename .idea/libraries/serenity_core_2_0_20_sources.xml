@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="serenity-core-2.0.20-sources">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/serenity-bdd/serenity-core/2.0.20/serenity-core-2.0.20-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
